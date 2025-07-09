@@ -35,4 +35,4 @@
 **Общий вывод:** резюмирование полученных результатов, формулировка ключевых выводов и рекомендаций.
 
 ## Используемые библиотеки
-*pandas*, *seaborn*, *numpy*, *sklearn*, *shap*, *optuna*
+*pandas*, *seaborn*, *numpy*, *scikit-learn*, *shap*, *optuna*

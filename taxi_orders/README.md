@@ -17,4 +17,4 @@
 4. Проверить данные на тестовой выборке и сделать выводы.
 
 ## Используемые библиотеки
-*pandas*, *numpy*, *seaborn*, *matplotlib.pyplot*, *sklearn*, *lightlgbm*, *statsmodels*
+*pandas*, *numpy*, *seaborn*, *matplotlib*, *scikit-learn*, *lightlgbm*, *statsmodels*
